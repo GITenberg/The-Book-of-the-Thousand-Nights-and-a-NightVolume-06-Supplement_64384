@@ -1,0 +1,31 @@
+_repo: The-Book-of-the-Thousand-Nights-and-a-NightVolume-06-Supplement_64384
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Burton, Richard Francis, Sir
+    aliases:
+    - Burton, R. F. (Richard F.), Sir
+    - Burton, Sir Richard Francis
+    - Baker, Frank
+    - Burton, Richard F.
+    birthdate: 1821
+    deathdate: 1890
+    gutenberg_agent_id: '898'
+    url: http://www.gutenberg.org/2009/agents/898
+    wikipedia: https://en.wikipedia.org/wiki/Richard_Francis_Burton
+description: ''
+gutenberg_issued: '2021-01-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64384'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PJ'
+- !lcsh 'Fairy tales'
+- !lcsh 'Tales -- Arab countries'
+- GITenberg
+title: The Book of the Thousand Nights and a Night—Volume 06 [Supplement]
+url: http://www.gutenberg.org/ebooks/64384
