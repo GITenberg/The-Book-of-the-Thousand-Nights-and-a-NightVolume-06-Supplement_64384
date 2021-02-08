@@ -1,5 +1,5 @@
 _repo: The-Book-of-the-Thousand-Nights-and-a-NightVolume-06-Supplement_64384
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Burton, Richard Francis, Sir
@@ -13,7 +13,12 @@ contributor:
     gutenberg_agent_id: '898'
     url: http://www.gutenberg.org/2009/agents/898
     wikipedia: https://en.wikipedia.org/wiki/Richard_Francis_Burton
+covers:
+- cover_type: archival
+  image_path: 64384-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64384#The-Book-of-the-Thousand-Nights-and-a-NightVolume-06-Supplement
 gutenberg_issued: '2021-01-25'
 gutenberg_type: Text
 identifiers:
